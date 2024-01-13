@@ -12,11 +12,7 @@
 
 卖家：发布二手图书。、订单管理等
 
-## 获取方式
 
-扫描下方，回复关键词  ： **二手** ，以获取源码  
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
 ## 2、项目技术
 
 后端框架：springboot、Mybatis
@@ -37,55 +33,57 @@
 
 ### 4.1 登录
 
-![登录](https://s2.loli.net/2023/10/09/DABl2QmOIeV3HoL.jpg)
+![登录](https://www.codeshop.fun/Typora-Images/202311152045223.jpg)
 
 ### 4.2 前端模块
 
-![前端-商品详情](https://s2.loli.net/2023/10/09/gsQW2d8IfMFc4Sm.jpg)
+![前端-商品详情](https://www.codeshop.fun/Typora-Images/202311152045705.jpg)
 
-![前段-下单](https://s2.loli.net/2023/10/09/jTp9GlvxPWuf2ig.jpg)
+![前段-下单](https://www.codeshop.fun/Typora-Images/202311152045715.jpg)
 
 ### 4.3 用户模块
 
-![用户-后端功能列表](https://s2.loli.net/2023/10/09/cR1W7AC6qKoOEGv.jpg)
+![用户-后端功能列表](https://www.codeshop.fun/Typora-Images/202311152045154.jpg)
 
-![用户-地址管理](https://s2.loli.net/2023/10/09/PxcbtXUmLATCWF9.jpg)
+![用户-地址管理](https://www.codeshop.fun/Typora-Images/202311152045181.jpg)
 
-![用户-订单管理](https://s2.loli.net/2023/10/09/qy6sklCVcSXBFYp.jpg)
+![用户-订单管理](https://www.codeshop.fun/Typora-Images/202311152045177.jpg)
 
-![用户-购物车](https://s2.loli.net/2023/10/09/lpkKYRcJ52Cxmne.jpg)
+![用户-购物车](https://www.codeshop.fun/Typora-Images/202311152045191.jpg)
+
 
 ### 4.4 卖家模块
 
-![卖家-后台功能列表](https://s2.loli.net/2023/10/09/YiIafJWGed2kSjo.jpg)
+![卖家-后台功能列表](https://www.codeshop.fun/Typora-Images/202311152045071.jpg)
+
 
 ### 4.5 管理员模块
 
-![管理员-用户管理](https://s2.loli.net/2023/10/09/UwZz7AbBtrca39u.jpg)
+![管理员-订单管理](https://www.codeshop.fun/Typora-Images/202311152045739.jpg)
 
-![管理员-订单管理](https://s2.loli.net/2023/10/09/9vPoZhUV7u5Bn4Q.jpg)
+![管理员-卖家管理](https://www.codeshop.fun/Typora-Images/202311152045580.jpg)
 
-![管理员-卖家管理](https://s2.loli.net/2023/10/09/tnpNQXuD8J53F1v.jpg)
+![管理员-求购图书管理](https://www.codeshop.fun/Typora-Images/202311152045614.jpg)
 
-![管理员-求购图书管理](https://s2.loli.net/2023/10/09/EVDIBPnGL2lvW5S.jpg)
+![管理员-图书分类管理](https://www.codeshop.fun/Typora-Images/202311152045671.jpg)
 
-![管理员-图书分类管理](https://s2.loli.net/2023/10/09/QL9bVzJOCl4YWwS.jpg)
+![管理员-图书管理](https://www.codeshop.fun/Typora-Images/202311152045694.jpg)
 
-![管理员-图书管理](https://s2.loli.net/2023/10/09/FGo3qeBgXxzJpAh.jpg)
+![管理员-系统公告](https://www.codeshop.fun/Typora-Images/202311152045646.jpg)
 
-![管理员-系统公告](https://s2.loli.net/2023/10/09/wKaRrAWkfSh1E8x.jpg)
+![管理员-用户管理](https://www.codeshop.fun/Typora-Images/202311152045262.jpg)
+
 
 ### 4.6 文档目录
 
-![文档目录](https://s2.loli.net/2023/10/09/DM1AnyQ5R4xh2Yg.jpg)
-
-### 获取方式&视频演示
-
-下方扫一下，回复关键词：二手
-
-![202309291447341](https://s2.loli.net/2023/10/09/TxQqu1r97cmJh3e.png)
+![文档目录](https://www.codeshop.fun/Typora-Images/202311152044513.jpg)
 
 
 
 
+## 获取方式
+
+下方扫一扫关注后，后台回复关键词：**二手**，查看导入教程视频、sql脚本和源码等
+
+ ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
 
